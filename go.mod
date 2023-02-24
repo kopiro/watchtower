@@ -33,7 +33,6 @@ require (
 	github.com/gorilla/mux v1.7.0 // indirect
 	github.com/hailocab/go-hostpool v0.0.0-20160125115350-e80d13ce29ed // indirect
 	github.com/hashicorp/go-version v1.1.0 // indirect
-	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/jinzhu/gorm v1.9.11 // indirect
 	github.com/johntdyer/slack-go v0.0.0-20180213144715-95fac1160b22 // indirect
 	github.com/johntdyer/slackrus v0.0.0-20180518184837-f7aae3243a07
@@ -57,9 +56,7 @@ require (
 	github.com/stretchr/testify v1.3.0
 	github.com/theupdateframework/notary v0.6.1 // indirect
 	github.com/zmap/zlint v1.0.2 // indirect
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 // indirect
-	golang.org/x/net v0.0.0-20191004110552-13f9640d40b9
-	golang.org/x/text v0.3.4 // indirect
+	golang.org/x/net v0.7.0
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	gopkg.in/dancannon/gorethink.v3 v3.0.5 // indirect
 	gopkg.in/fatih/pool.v2 v2.0.0 // indirect
